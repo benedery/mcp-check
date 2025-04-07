@@ -15,3 +15,5 @@ This repository is created to test and demonstrate the functionality of MCP comm
 3. **Stop the MCP Server**: To stop the server, you can simply interrupt the process in your terminal.
 
 Feel free to explore and test different MCP functionalities using this setup.
+
+Moriel, you don't understand.
